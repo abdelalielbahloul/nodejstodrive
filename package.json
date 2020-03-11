@@ -4,7 +4,7 @@
   "description": "Saving file to drive using nodejs and google drive APIs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/abdelalielbahloul/nodejstodrive/issues"
   },
-  "homepage": "https://github.com/abdelalielbahloul/nodejstodrive#readme"
+  "homepage": "https://github.com/abdelalielbahloul/nodejstodrive#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
 }
