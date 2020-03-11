@@ -1,0 +1,25 @@
+{
+  "name": "nodejstodrive",
+  "version": "1.0.0",
+  "description": "Saving file to drive using nodejs and google drive APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelalielbahloul/nodejstodrive.git"
+  },
+  "keywords": [
+    "nodejs",
+    "google-drive-APIs",
+    "files",
+    "upload"
+  ],
+  "author": "EL BAHLOUL Abdelali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abdelalielbahloul/nodejstodrive/issues"
+  },
+  "homepage": "https://github.com/abdelalielbahloul/nodejstodrive#readme"
+}
